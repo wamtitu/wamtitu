@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wamtitu" alt="wamtitu" /></a> </p>
 
-- 🌱 I’m currently learning **.NET**
-
-- 💬 Ask me about **reactjs, js, css, c#, sql, nodejs, vuejs**
-
 - 📫 How to reach me **wamtitujose@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
